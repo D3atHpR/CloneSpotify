@@ -1,1 +1,3 @@
 .js Linguist-vendored=true
+* text=auto
+*.sh text eol=lf
